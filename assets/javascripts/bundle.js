@@ -71,6 +71,7 @@
 	    var height = $(document).height();
 	    p.createCanvas(width, height);
 	    $('html, body').animate({ scrollTop: $('#sketch').offset().top }, 'slow');
+	    $('html, body').animate({ scrollLeft: $('#sketch').offset().left }, 'slow');
 	    w = 10;
 	    // Calculate columns and rows
 	    columns = Math.floor(width / w);
