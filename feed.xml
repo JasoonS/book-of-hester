@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>book-of-hester</title>
+    <description>An animated story for the graphic novel 'The Book of Hester'.
+</description>
+    <link>http://jasonsmythe.me/book-of-hester/</link>
+    <atom:link href="http://jasonsmythe.me/book-of-hester/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 04 Oct 2016 18:03:07 +0200</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2016 18:03:07 +0200</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>A first test post</title>
+        <description>&lt;p&gt;Here you can write information and stuff like that…&lt;/p&gt;
+
+&lt;p&gt;This is a test link to a &lt;a href=&quot;http://test.com&quot;&gt;test website&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 02 May 2016 16:28:59 +0200</pubDate>
+        <link>http://jasonsmythe.me/book-of-hester/jekyll/update/2016/05/02/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://jasonsmythe.me/book-of-hester/jekyll/update/2016/05/02/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
